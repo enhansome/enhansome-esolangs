@@ -1,0 +1,526 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JSFuck",
+          "description": "Esoteric programming style based on the atomic parts of JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-10T08:15:33Z",
+            "owner": "aemkei",
+            "repo": "jsfuck",
+            "stars": 8601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vigil",
+          "description": "Only Vigil is truly vigilant about not allowing code that fails to pass programmatic specifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-26T22:21:21Z",
+            "owner": "munificent",
+            "repo": "vigil",
+            "stars": 3036
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enterprise™",
+          "description": "Non deterministic unnecessarily statically typed language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-08T03:35:59Z",
+            "owner": "joaomilho",
+            "repo": "Enterprise",
+            "stars": 1619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fetlang",
+          "description": "Designed such that source code looks like poorly written fetish erotica.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-05-02T22:11:19Z",
+            "owner": "fetlang",
+            "repo": "fetlang",
+            "stars": 1501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monicelli",
+          "description": "Programming using Italian-like gibberish.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-23T18:29:36Z",
+            "owner": "esseks",
+            "repo": "monicelli",
+            "stars": 1380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jelly",
+          "description": "Golfing language based on J.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-02T13:58:58Z",
+            "owner": "DennisMitchell",
+            "repo": "jellylanguage",
+            "stars": 910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Folders",
+          "description": "Code written with folders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-12-20T00:23:33Z",
+            "owner": "rottytooth",
+            "repo": "Folders",
+            "stars": 387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Watson",
+          "description": "Stack-based Turing-incomplete configuration files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-02T09:05:14Z",
+            "owner": "genkami",
+            "repo": "watson",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Charcoal",
+          "description": "Concise language for sketching ASCII art.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-05T11:17:48Z",
+            "owner": "charcoal-lang",
+            "repo": "Charcoal",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlipJump",
+          "description": "1 instruction: Flip a bit, then Jump. The simplest OISC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Text",
+            "last_commit": "2026-06-23T05:33:13Z",
+            "owner": "tomhea",
+            "repo": "flipjump",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreakC",
+          "description": "Full-blown programming language with NSFW contents and memes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Batchfile",
+            "last_commit": "2025-12-04T03:11:03Z",
+            "owner": "FreakC-Foundation",
+            "repo": "FreakC",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Electra",
+          "description": "Code like an electrician.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-31T10:41:41Z",
+            "owner": "DolphyWind",
+            "repo": "Electra-Lang",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rockstar",
+          "description": "Designed for creating computer programs that are also song lyrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-12-15T15:42:08Z",
+            "owner": "dylanbeattie",
+            "repo": "rockstar",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Japt",
+          "description": "Reduced JavaScript for golfing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-05-27T18:05:59Z",
+            "owner": "ETHproductions",
+            "repo": "japt",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thue",
+          "description": "Matrioshka language based on nondeterministic string rewriting of a semi-Thue grammar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-10-09T10:54:26Z",
+            "owner": "jcolag",
+            "repo": "Thue",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChuckScript",
+          "description": "Unary-based language, where the code is a single number.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-08-03T22:04:19Z",
+            "owner": "angrykoala",
+            "repo": "chuckscript",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C Flat",
+          "description": "Musical language focused on sound rather than notation with creative freedom in mind.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-01-01T03:28:24Z",
+            "owner": "NicksterSand",
+            "repo": "Cflat",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AlmostBinary",
+          "description": "Code in binary and run on any platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-03-31T09:40:33Z",
+            "owner": "wsdt",
+            "repo": "AlmostBinary",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CellTail",
+          "description": "A 1d celular automata based language, supports a complex pattern matching syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-09-19T09:33:44Z",
+            "owner": "mousetail",
+            "repo": "CellTail",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Suzy",
+          "description": "3D language inspired in Befunge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2009-11-04T20:08:43Z",
+            "owner": "gvx",
+            "repo": "suzy",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brackets",
+          "description": "Language made of brackets, a lot of brackets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-19T11:58:29Z",
+            "owner": "kvbc",
+            "repo": "brackets",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dots",
+          "description": "A turing-complete language using \".\" symbol only.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-22T13:03:16Z",
+            "owner": "emmaconnor",
+            "repo": "dots",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "78",
+          "description": "A single-character command language focused around the numbers 7 and 8.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-04-07T04:51:32Z",
+            "owner": "oatmealine",
+            "repo": "78",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mindfck",
+          "description": "High level language that transpiles to Brainfuck.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-03-17T21:42:55Z",
+            "owner": "angrykoala",
+            "repo": "mindfck",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ni",
+          "description": "Brainfuck-based with more helpful instructions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-07-28T03:04:00Z",
+            "owner": "DeybisMelendez",
+            "repo": "ni",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RASEL",
+          "description": "Fungeoid with no limits on program space, float precision, and with a bit of random access to stack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2021-12-02T08:49:17Z",
+            "owner": "Nakilon",
+            "repo": "rasel",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tru",
+          "description": "A stack-based language with prefix-free brackets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-09T08:31:19Z",
+            "owner": "sungwoncho",
+            "repo": "tru",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Turtle",
+          "description": "Uses long-term storage for memory use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-04-13T05:31:44Z",
+            "owner": "TypeMonkey",
+            "repo": "Turtle",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Benedictum",
+          "description": "Latin-themed Brainfuck derivative where source code reads as prayer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-14T20:09:30Z",
+            "owner": "Beneking102",
+            "repo": "benedictum",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JellyScript",
+          "description": "Brainfuck-based with delicious jelly.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "WordLang",
+          "description": "A language based on meaning-like grammar that produces output.",
+          "children": []
+        }
+      ],
+      "title": "Languages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NoCode",
+          "description": "Secure and reliable applications. Write nothing; deploy nowhere.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2024-08-07T03:19:12Z",
+            "owner": "kelseyhightower",
+            "repo": "nocode",
+            "stars": 65608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FizzBuzzEnterpriseEdition",
+          "description": "Simple FizzBuzz game implemented under the most strict enterprise standards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-15T08:04:08Z",
+            "owner": "EnterpriseQualityCoding",
+            "repo": "FizzBuzzEnterpriseEdition",
+            "stars": 23778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSS-only-chat",
+          "description": "A truly monstrous async web chat using no JS whatsoever on the frontend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-09-08T09:40:31Z",
+            "owner": "kkuchta",
+            "repo": "css-only-chat",
+            "stars": 6592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vapor.js",
+          "description": "The World's Smallest & Fastest JavaScript Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-19T16:09:42Z",
+            "owner": "madrobby",
+            "repo": "vapor.js",
+            "stars": 1413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MalbolgeLisp",
+          "description": "A Lisp interpreter in Malbolge Unshackled.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2025-08-05T19:13:30Z",
+            "owner": "iczelia",
+            "repo": "malbolge-lisp",
+            "stars": 553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asmbf",
+          "description": "The only true brainfuck assembler toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2022-10-23T08:27:17Z",
+            "owner": "iczelia",
+            "repo": "asmbf",
+            "stars": 117
+          }
+        }
+      ],
+      "title": "Others"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:35:00.572Z",
+    "original_repository": "angrykoala/awesome-esolangs",
+    "original_repository_sha": "ab47b3e939d83c62248c65cffef37fc16f122976",
+    "enhanced_repository": "enhansome/enhansome-esolangs",
+    "enhanced_repository_description": null,
+    "title": "Awesome Esolangs with stars"
+  }
+}
