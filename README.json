@@ -14,7 +14,7 @@
             "last_commit": "2025-03-10T08:15:33Z",
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8602
+            "stars": 8601
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2024-05-02T22:11:19Z",
             "owner": "fetlang",
             "repo": "fetlang",
-            "stars": 1501
+            "stars": 1500
           }
         },
         {
@@ -109,7 +109,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-02T09:05:14Z",
+            "last_commit": "2026-08-15T01:11:34Z",
             "owner": "genkami",
             "repo": "watson",
             "stars": 269
@@ -438,7 +438,7 @@
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65612
+            "stars": 65618
           }
         },
         {
@@ -452,7 +452,7 @@
             "last_commit": "2024-07-15T08:04:08Z",
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23775
+            "stars": 23777
           }
         },
         {
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:28:55.168Z",
+    "last_updated": "2026-08-15T13:47:54.817Z",
     "original_repository": "angrykoala/awesome-esolangs",
     "original_repository_sha": "ab47b3e939d83c62248c65cffef37fc16f122976",
     "enhanced_repository": "enhansome/enhansome-esolangs",
