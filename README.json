@@ -14,7 +14,7 @@
             "last_commit": "2025-03-10T08:15:33Z",
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8601
+            "stars": 8600
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65618
+            "stars": 65632
           }
         },
         {
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:47:54.817Z",
+    "last_updated": "2026-08-16T13:49:31.832Z",
     "original_repository": "angrykoala/awesome-esolangs",
     "original_repository_sha": "ab47b3e939d83c62248c65cffef37fc16f122976",
     "enhanced_repository": "enhansome/enhansome-esolangs",
