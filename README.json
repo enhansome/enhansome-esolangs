@@ -14,7 +14,7 @@
             "last_commit": "2025-03-10T08:15:33Z",
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8600
+            "stars": 8598
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65632
+            "stars": 65636
           }
         },
         {
@@ -494,7 +494,7 @@
             "last_commit": "2025-08-05T19:13:30Z",
             "owner": "iczelia",
             "repo": "malbolge-lisp",
-            "stars": 553
+            "stars": 552
           }
         },
         {
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:49:31.832Z",
+    "last_updated": "2026-08-17T13:57:47.716Z",
     "original_repository": "angrykoala/awesome-esolangs",
     "original_repository_sha": "ab47b3e939d83c62248c65cffef37fc16f122976",
     "enhanced_repository": "enhansome/enhansome-esolangs",
