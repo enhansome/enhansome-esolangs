@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5389577,
             "language": "JavaScript",
             "last_commit": "2025-03-10T08:15:33Z",
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8598
+            "stars": 8599
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7419516,
             "language": "Python",
             "last_commit": "2022-09-26T22:21:21Z",
             "owner": "munificent",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143634420,
             "language": "JavaScript",
             "last_commit": "2023-05-08T03:35:59Z",
             "owner": "joaomilho",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100285532,
             "language": "C++",
             "last_commit": "2024-05-02T22:11:19Z",
             "owner": "fetlang",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27286082,
             "language": "C++",
             "last_commit": "2025-11-23T18:29:36Z",
             "owner": "esseks",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47382110,
             "language": "Python",
             "last_commit": "2020-09-02T13:58:58Z",
             "owner": "DennisMitchell",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29002406,
             "language": "C#",
             "last_commit": "2021-12-20T00:23:33Z",
             "owner": "rottytooth",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 318742174,
             "language": "Go",
             "last_commit": "2026-08-18T03:06:19Z",
             "owner": "genkami",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69830362,
             "language": "Python",
             "last_commit": "2024-12-05T11:17:48Z",
             "owner": "charcoal-lang",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 332136876,
             "language": "Text",
             "last_commit": "2026-06-23T05:33:13Z",
             "owner": "tomhea",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 283131605,
             "language": "Batchfile",
             "last_commit": "2025-12-04T03:11:03Z",
             "owner": "FreakC-Foundation",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 578725297,
             "language": "C++",
             "last_commit": "2026-05-31T10:41:41Z",
             "owner": "DolphyWind",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 327427989,
             "language": "JavaScript",
             "last_commit": "2021-12-15T15:42:08Z",
             "owner": "dylanbeattie",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46392302,
             "language": "JavaScript",
             "last_commit": "2021-05-27T18:05:59Z",
             "owner": "ETHproductions",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20480280,
             "language": "C",
             "last_commit": "2025-10-09T10:54:26Z",
             "owner": "jcolag",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52734245,
             "language": "JavaScript",
             "last_commit": "2016-08-03T22:04:19Z",
             "owner": "angrykoala",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 322761807,
             "language": "C",
             "last_commit": "2021-01-01T03:28:24Z",
             "owner": "NicksterSand",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 262861218,
             "language": "C#",
             "last_commit": "2023-03-31T09:40:33Z",
             "owner": "wsdt",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 526834968,
             "language": "Rust",
             "last_commit": "2023-09-19T09:33:44Z",
             "owner": "mousetail",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 296644,
             "language": "Python",
             "last_commit": "2009-11-04T20:08:43Z",
             "owner": "gvx",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289644985,
             "language": "JavaScript",
             "last_commit": "2021-06-19T11:58:29Z",
             "owner": "kvbc",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41556954,
             "language": "Python",
             "last_commit": "2021-03-22T13:03:16Z",
             "owner": "emmaconnor",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253650275,
             "language": "JavaScript",
             "last_commit": "2020-04-07T04:51:32Z",
             "owner": "oatmealine",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 849010114,
             "language": "Go",
             "last_commit": "2025-03-17T21:42:55Z",
             "owner": "angrykoala",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 274205968,
             "language": "Lua",
             "last_commit": "2020-07-28T03:04:00Z",
             "owner": "DeybisMelendez",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 320444332,
             "language": "Ruby",
             "last_commit": "2021-12-02T08:49:17Z",
             "owner": "Nakilon",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 284921070,
             "language": "Python",
             "last_commit": "2020-08-09T08:31:19Z",
             "owner": "sungwoncho",
@@ -388,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231992814,
             "language": "Java",
             "last_commit": "2020-04-13T05:31:44Z",
             "owner": "TypeMonkey",
@@ -402,30 +430,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1181755901,
             "language": "C",
             "last_commit": "2026-03-14T20:09:30Z",
             "owner": "Beneking102",
             "repo": "benedictum",
             "stars": 4
           }
-        },
-        {
-          "node_type": "item",
-          "title": "JellyScript",
-          "description": "Brainfuck-based with delicious jelly.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "WordLang",
-          "description": "A language based on meaning-like grammar that produces output.",
-          "children": []
         }
       ],
       "title": "Languages"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -434,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120538304,
             "language": "Dockerfile",
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
@@ -448,11 +466,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6834703,
             "language": "Java",
             "last_commit": "2024-07-15T08:04:08Z",
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23779
+            "stars": 23780
           }
         },
         {
@@ -462,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185419470,
             "language": "Ruby",
             "last_commit": "2023-09-08T09:40:31Z",
             "owner": "kkuchta",
@@ -476,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 938061,
             "language": "JavaScript",
             "last_commit": "2022-07-19T16:09:42Z",
             "owner": "madrobby",
@@ -490,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 287066552,
             "language": "TeX",
             "last_commit": "2025-08-05T19:13:30Z",
             "owner": "iczelia",
@@ -504,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 153830667,
             "language": "C",
             "last_commit": "2022-10-23T08:27:17Z",
             "owner": "iczelia",
@@ -516,8 +539,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:02:10.147Z",
+    "last_updated": "2026-08-19T12:26:29.534Z",
     "original_repository": "angrykoala/awesome-esolangs",
+    "original_repository_id": 83993330,
     "original_repository_sha": "ab47b3e939d83c62248c65cffef37fc16f122976",
     "enhanced_repository": "enhansome/enhansome-esolangs",
     "enhanced_repository_description": null,
