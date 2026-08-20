@@ -30,7 +30,7 @@
             "last_commit": "2022-09-26T22:21:21Z",
             "owner": "munificent",
             "repo": "vigil",
-            "stars": 3036
+            "stars": 3037
           }
         },
         {
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 318742174,
             "language": "Go",
-            "last_commit": "2026-08-18T03:06:19Z",
+            "last_commit": "2026-08-20T05:32:48Z",
             "owner": "genkami",
             "repo": "watson",
             "stars": 269
@@ -456,7 +456,7 @@
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65643
+            "stars": 65648
           }
         },
         {
@@ -486,7 +486,7 @@
             "last_commit": "2023-09-08T09:40:31Z",
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6592
+            "stars": 6593
           }
         },
         {
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:02:37.250Z",
+    "last_updated": "2026-08-20T14:05:11.749Z",
     "original_repository": "angrykoala/awesome-esolangs",
     "original_repository_id": 83993330,
     "original_repository_sha": "ab47b3e939d83c62248c65cffef37fc16f122976",
