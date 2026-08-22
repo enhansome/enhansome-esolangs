@@ -195,7 +195,7 @@
             "last_commit": "2021-12-15T15:42:08Z",
             "owner": "dylanbeattie",
             "repo": "rockstar",
-            "stars": 88
+            "stars": 89
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65653
+            "stars": 65657
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2024-07-15T08:04:08Z",
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23782
+            "stars": 23784
           }
         },
         {
@@ -486,7 +486,7 @@
             "last_commit": "2023-09-08T09:40:31Z",
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6593
+            "stars": 6592
           }
         },
         {
@@ -516,7 +516,7 @@
             "last_commit": "2025-08-05T19:13:30Z",
             "owner": "iczelia",
             "repo": "malbolge-lisp",
-            "stars": 552
+            "stars": 553
           }
         },
         {
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:03:13.749Z",
+    "last_updated": "2026-08-22T13:48:30.519Z",
     "original_repository": "angrykoala/awesome-esolangs",
     "original_repository_id": 83993330,
     "original_repository_sha": "ab47b3e939d83c62248c65cffef37fc16f122976",

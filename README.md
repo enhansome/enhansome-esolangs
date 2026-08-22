@@ -30,7 +30,7 @@ Curated list of awesome esoteric programming languages, resources and related pr
 * [FlipJump](https://github.com/tomhea/flip-jump) ⭐ 142 | 🐛 7 | 🌐 Text | 📅 2026-06-23 - 1 instruction: Flip a bit, then Jump. The simplest OISC.
 * [FreakC](https://github.com/FreakC-Foundation/FreakC) ⭐ 129 | 🐛 1 | 🌐 Batchfile | 📅 2025-12-04 - Full-blown programming language with NSFW contents and memes.
 * [Electra](https://github.com/DolphyWind/Electra-Lang) ⭐ 100 | 🐛 1 | 🌐 C++ | 📅 2026-05-31 - Code like an electrician.
-* [Rockstar](https://github.com/dylanbeattie/rockstar) ⭐ 88 | 🐛 0 | 🌐 JavaScript | 📅 2021-12-15 - Designed for creating computer programs that are also song lyrics.
+* [Rockstar](https://github.com/dylanbeattie/rockstar) ⭐ 89 | 🐛 0 | 🌐 JavaScript | 📅 2021-12-15 - Designed for creating computer programs that are also song lyrics.
 * [Japt](https://github.com/ETHproductions/japt) ⭐ 76 | 🐛 21 | 🌐 JavaScript | 📅 2021-05-27 - Reduced JavaScript for golfing.
 * [Thue](https://github.com/jcolag/Thue) ⭐ 36 | 🐛 0 | 🌐 C | 📅 2025-10-09 - *Matrioshka* language based on nondeterministic string rewriting of a semi-Thue grammar.
 * [ChuckScript](https://github.com/angrykoala/chuckscript) ⭐ 33 | 🐛 0 | 🌐 JavaScript | 📅 2016-08-03 - Unary-based language, where the code is a single number.
@@ -95,11 +95,11 @@ Curated list of awesome esoteric programming languages, resources and related pr
 
 ## Others
 
-* [NoCode](https://github.com/kelseyhightower/nocode) ⭐ 65,653 | 🐛 4,719 | 🌐 Dockerfile | 📅 2024-08-07 - Secure and reliable applications. Write nothing; deploy nowhere.
-* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,782 | 🐛 546 | 🌐 Java | 📅 2024-07-15 - Simple FizzBuzz game implemented under the most strict enterprise standards.
-* [CSS-only-chat](https://github.com/kkuchta/css-only-chat) ⭐ 6,593 | 🐛 14 | 🌐 Ruby | 📅 2023-09-08 - A truly monstrous async web chat using no JS whatsoever on the frontend.
+* [NoCode](https://github.com/kelseyhightower/nocode) ⭐ 65,657 | 🐛 4,719 | 🌐 Dockerfile | 📅 2024-08-07 - Secure and reliable applications. Write nothing; deploy nowhere.
+* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,784 | 🐛 546 | 🌐 Java | 📅 2024-07-15 - Simple FizzBuzz game implemented under the most strict enterprise standards.
+* [CSS-only-chat](https://github.com/kkuchta/css-only-chat) ⭐ 6,592 | 🐛 14 | 🌐 Ruby | 📅 2023-09-08 - A truly monstrous async web chat using no JS whatsoever on the frontend.
 * [vapor.js](https://github.com/madrobby/vapor.js) ⭐ 1,413 | 🐛 62 | 🌐 JavaScript | 📅 2022-07-19 - The World's Smallest & Fastest JavaScript Library.
-* [MalbolgeLisp](https://github.com/kspalaiologos/malbolge-lisp) ⭐ 552 | 🐛 0 | 🌐 TeX | 📅 2025-08-05 - A Lisp interpreter in Malbolge Unshackled.
+* [MalbolgeLisp](https://github.com/kspalaiologos/malbolge-lisp) ⭐ 553 | 🐛 0 | 🌐 TeX | 📅 2025-08-05 - A Lisp interpreter in Malbolge Unshackled.
 * [asmbf](https://github.com/kspalaiologos/asmbf) ⚠️ Archived - The only true brainfuck assembler toolkit.
 * [Petrovich](http://www.dangermouse.net/esoteric/petrovich.html) - Operating System concept based on random actions and rewards/punishments.
 
@@ -132,4 +132,4 @@ Curated list of awesome esoteric programming languages, resources and related pr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
