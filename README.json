@@ -456,7 +456,7 @@
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65657
+            "stars": 65658
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2024-07-15T08:04:08Z",
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23784
+            "stars": 23786
           }
         },
         {
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:48:30.519Z",
+    "last_updated": "2026-08-23T13:49:59.290Z",
     "original_repository": "angrykoala/awesome-esolangs",
     "original_repository_id": 83993330,
     "original_repository_sha": "ab47b3e939d83c62248c65cffef37fc16f122976",
