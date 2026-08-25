@@ -335,7 +335,7 @@
         },
         {
           "node_type": "item",
-          "title": "78",
+          "title": "oatmealine/78",
           "description": "A single-character command language focused around the numbers 7 and 8.",
           "children": [],
           "repo_info": {
@@ -456,7 +456,7 @@
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65658
+            "stars": 65661
           }
         },
         {
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:06:47.981Z",
+    "last_updated": "2026-08-25T06:19:22.848Z",
     "original_repository": "angrykoala/awesome-esolangs",
     "original_repository_id": 83993330,
     "original_repository_sha": "ab47b3e939d83c62248c65cffef37fc16f122976",
