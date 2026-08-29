@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Write any JavaScript with 6 Characters: []()!+",
+            "homepage": "jsfuck.com",
             "id": 5389577,
             "language": "JavaScript",
+            "license": "WTFPL",
             "last_commit": "2025-03-10T08:15:33Z",
+            "open_issues": 38,
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8597
+            "stars": 8596,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vigil, the eternal morally vigilant programming language",
+            "homepage": null,
             "id": 7419516,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-09-26T22:21:21Z",
+            "open_issues": 26,
             "owner": "munificent",
             "repo": "vigil",
-            "stars": 3037
+            "stars": 3037,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -42,12 +52,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦄 The Enterprise™ programming language",
+            "homepage": null,
             "id": 143634420,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-05-08T03:35:59Z",
+            "open_issues": 34,
             "owner": "joaomilho",
             "repo": "Enterprise",
-            "stars": 1619
+            "stars": 1619,
+            "topics": [
+              "ajax",
+              "artificial-intelligence",
+              "cloud",
+              "crypto",
+              "data-science",
+              "disruptive-technology",
+              "docker",
+              "enterprise",
+              "enterprise-development",
+              "enterprise-services",
+              "enterprise-software",
+              "growth",
+              "jvm",
+              "kubernetes",
+              "language",
+              "money",
+              "progressive-web-app",
+              "quantum",
+              "redux"
+            ]
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -58,12 +93,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fetish-themed programming language",
+            "homepage": null,
             "id": 100285532,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-05-02T22:11:19Z",
+            "open_issues": 10,
             "owner": "fetlang",
             "repo": "fetlang",
-            "stars": 1501
+            "stars": 1501,
+            "topics": [
+              "compiler",
+              "esolang",
+              "esoteric-language",
+              "fetlang",
+              "language",
+              "programming-language",
+              "transpiler"
+            ]
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -74,12 +122,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An esoteric programming language, come se fosse antani.",
+            "homepage": null,
             "id": 27286082,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2025-11-23T18:29:36Z",
+            "open_issues": 21,
             "owner": "esseks",
             "repo": "monicelli",
-            "stars": 1380
+            "stars": 1380,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -90,12 +143,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jelly is a recreational programming language inspired by J.",
+            "homepage": null,
             "id": 47382110,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-09-02T13:58:58Z",
+            "open_issues": 22,
             "owner": "DennisMitchell",
             "repo": "jellylanguage",
-            "stars": 910
+            "stars": 910,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -106,12 +164,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A language where the code is written with folders",
+            "homepage": null,
             "id": 29002406,
             "language": "C#",
+            "license": null,
             "last_commit": "2021-12-20T00:23:33Z",
+            "open_issues": 1,
             "owner": "rottytooth",
             "repo": "Folders",
-            "stars": 387
+            "stars": 387,
+            "topics": [
+              "esolang",
+              "esoteric-language",
+              "esoteric-programming-language",
+              "programming-language"
+            ]
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -122,12 +190,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WATSON: Wasted but Amazing Turing-incomplete Stack-based Object Notation",
+            "homepage": null,
             "id": 318742174,
             "language": "Go",
-            "last_commit": "2026-08-28T22:43:02Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:50:49Z",
+            "open_issues": 11,
             "owner": "genkami",
             "repo": "watson",
-            "stars": 269
+            "stars": 269,
+            "topics": [
+              "encoding",
+              "esolang",
+              "esoteric-language",
+              "go",
+              "golang",
+              "serialization"
+            ]
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -138,12 +218,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A concise language for sketching ASCII art.",
+            "homepage": null,
             "id": 69830362,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-05T11:17:48Z",
+            "open_issues": 1,
             "owner": "charcoal-lang",
             "repo": "Charcoal",
-            "stars": 226
+            "stars": 226,
+            "topics": [
+              "ascii-art",
+              "esoteric-language",
+              "golfing-language"
+            ]
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -154,12 +243,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The single instruction language - Flip a bit, then Jump",
+            "homepage": "https://fjdocs.tomhe.app",
             "id": 332136876,
             "language": "Text",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-06-23T05:33:13Z",
+            "open_issues": 7,
             "owner": "tomhea",
             "repo": "flipjump",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "compiler",
+              "esolang",
+              "esoteric-programming-language",
+              "macro-assembler",
+              "oisc",
+              "programming-language"
+            ]
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -170,12 +271,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FreakC Programming Language - an experimental Batch-like language written in Batch which compiles to Batch",
+            "homepage": "https://freakc-foundation.github.io",
             "id": 283131605,
             "language": "Batchfile",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-04T03:11:03Z",
+            "open_issues": 1,
             "owner": "FreakC-Foundation",
             "repo": "FreakC",
-            "stars": 129
+            "stars": 129,
+            "topics": [
+              "batch",
+              "compiler",
+              "devkit",
+              "dos",
+              "freakc",
+              "language",
+              "procedural",
+              "programming-language",
+              "scripting-language",
+              "transpiler",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -186,12 +304,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Electra is an esolang where you code like an electrician.",
+            "homepage": "https://esolangs.org/wiki/Electra",
             "id": 578725297,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-05-31T10:41:41Z",
+            "open_issues": 1,
             "owner": "DolphyWind",
             "repo": "Electra-Lang",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "cplusplus",
+              "cplusplus-20",
+              "cpp",
+              "cpp20",
+              "esolang",
+              "esolangs",
+              "esoteric",
+              "esoteric-interpreter",
+              "esoteric-language",
+              "esoteric-programming-language",
+              "interpreted",
+              "interpreted-language",
+              "interpreted-programming-language",
+              "interpreter",
+              "language",
+              "programming-language",
+              "stack-based",
+              "stack-based-language"
+            ]
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -202,12 +344,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Rockstar programming language specification",
+            "homepage": "https://codewithrockstar.com/",
             "id": 327427989,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-12-15T15:42:08Z",
+            "open_issues": 0,
             "owner": "dylanbeattie",
             "repo": "rockstar",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -218,12 +365,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Japt 1.4.5, the other JavaScript golfing language",
+            "homepage": "http://ethproductions.github.io/japt",
             "id": 46392302,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-05-27T18:05:59Z",
+            "open_issues": 21,
             "owner": "ETHproductions",
             "repo": "japt",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "esolang",
+              "golfing-language",
+              "javascript",
+              "programming-language"
+            ]
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -234,12 +391,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Thue programming language:  Programming with grammars",
+            "homepage": null,
             "id": 20480280,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2025-10-09T10:54:26Z",
+            "open_issues": 0,
             "owner": "jcolag",
             "repo": "Thue",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -250,12 +412,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chuck Norris Programming Language",
+            "homepage": null,
             "id": 52734245,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-08-03T22:04:19Z",
+            "open_issues": 0,
             "owner": "angrykoala",
             "repo": "chuckscript",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "chuck-norris",
+              "esoteric-language",
+              "javascript",
+              "language",
+              "npm-package"
+            ]
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -266,12 +439,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An interpreter for C flat, a music-based programming language",
+            "homepage": null,
             "id": 322761807,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2021-01-01T03:28:24Z",
+            "open_issues": 1,
             "owner": "NicksterSand",
             "repo": "Cflat",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -282,12 +460,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compiler & Runtime for 'Almost Binary'. Code in platform-independent binary and utilize high-level data structures and state-of-the-art libraries (e.g. quantum computing, blockchain, ..)",
+            "homepage": null,
             "id": 262861218,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2023-03-31T09:40:33Z",
+            "open_issues": 0,
             "owner": "wsdt",
             "repo": "AlmostBinary",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "binary",
+              "blockchain",
+              "compiler",
+              "csharp",
+              "esolang",
+              "esoteric-programming-language",
+              "platform-independent",
+              "programming-language",
+              "qsharp",
+              "quantum-computing",
+              "runtime"
+            ]
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -298,12 +493,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The cell tail language",
+            "homepage": null,
             "id": 526834968,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2023-09-19T09:33:44Z",
+            "open_issues": 0,
             "owner": "mousetail",
             "repo": "CellTail",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -314,12 +514,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A three-dimensional esoteric programming language",
+            "homepage": null,
             "id": 296644,
             "language": "Python",
+            "license": null,
             "last_commit": "2009-11-04T20:08:43Z",
+            "open_issues": 0,
             "owner": "gvx",
             "repo": "suzy",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -330,12 +535,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An esolang with brackets, a lot of brackets",
+            "homepage": "https://kvbc.github.io/brackets/interpreter",
             "id": 289644985,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-06-19T11:58:29Z",
+            "open_issues": 0,
             "owner": "kvbc",
             "repo": "brackets",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "esolang",
+              "esolangs",
+              "interpreter"
+            ]
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -346,12 +560,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Turing-complete programming language with only one symbol: \".\"",
+            "homepage": null,
             "id": 41556954,
             "language": "Python",
+            "license": "Unlicense",
             "last_commit": "2021-03-22T13:03:16Z",
+            "open_issues": 1,
             "owner": "emmaconnor",
             "repo": "dots",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -362,12 +581,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an esolang focused on the numbers 7 and 8",
+            "homepage": null,
             "id": 253650275,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-04-07T04:51:32Z",
+            "open_issues": 1,
             "owner": "oatmealine",
             "repo": "78",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "esolang",
+              "language",
+              "suffering"
+            ]
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -378,12 +606,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A language to transpile to brainfuck",
+            "homepage": null,
             "id": 849010114,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2025-03-17T21:42:55Z",
+            "open_issues": 1,
             "owner": "angrykoala",
             "repo": "mindfck",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -394,12 +627,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ni is a small esoteric programming language turing complete, cell based, like brainfuck.",
+            "homepage": "https://deybismelendez.github.io/ni/",
             "id": 274205968,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2020-07-28T03:04:00Z",
+            "open_issues": 0,
             "owner": "DeybisMelendez",
             "repo": "ni",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "esoteric-interpreter",
+              "esoteric-language",
+              "esoteric-languages",
+              "esoteric-programming-language",
+              "lua",
+              "turing-complete"
+            ]
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -410,12 +655,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RASEL (Random Access Stack Esoteric Language) reference implementation",
+            "homepage": "https://esolangs.org/wiki/RASEL",
             "id": 320444332,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2021-12-02T08:49:17Z",
+            "open_issues": 0,
             "owner": "Nakilon",
             "repo": "rasel",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "befunge",
+              "esolang",
+              "esoteric-language",
+              "programming-language",
+              "reference-implementation",
+              "rubygem",
+              "stack-based-language"
+            ]
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -426,12 +684,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An esoteric programming language with prefix-free brackets",
+            "homepage": "https://sungwoncho.github.io/tru/",
             "id": 284921070,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-08-09T08:31:19Z",
+            "open_issues": 0,
             "owner": "sungwoncho",
             "repo": "tru",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "esolang",
+              "esoteric-programming-language",
+              "programming-language"
+            ]
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -442,12 +709,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A programming language that utilizes long-term storage for space consumption",
+            "homepage": null,
             "id": 231992814,
             "language": "Java",
+            "license": null,
             "last_commit": "2020-04-13T05:31:44Z",
+            "open_issues": 0,
             "owner": "TypeMonkey",
             "repo": "Turtle",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -458,12 +730,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Latin-themed esoteric programming language where source code reads as prayer",
+            "homepage": "https://esolangs.org/wiki/Benedictum",
             "id": 1181755901,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-03-14T20:09:30Z",
+            "open_issues": 0,
             "owner": "Beneking102",
             "repo": "benedictum",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "benedictum",
+              "brainfuck",
+              "c",
+              "esolang",
+              "esoteric-language",
+              "interpreter",
+              "latin",
+              "latin-language",
+              "programming-language"
+            ]
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         }
@@ -480,12 +767,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The best way to write secure and reliable applications. Write nothing; deploy nowhere.",
+            "homepage": null,
             "id": 120538304,
             "language": "Dockerfile",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-07T03:19:12Z",
+            "open_issues": 4721,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65675
+            "stars": 65674,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -496,12 +788,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.",
+            "homepage": null,
             "id": 6834703,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-07-15T08:04:08Z",
+            "open_issues": 546,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23795
+            "stars": 23795,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -512,12 +809,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A truly monstrous async web chat using no JS whatsoever on the frontend",
+            "homepage": null,
             "id": 185419470,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2023-09-08T09:40:31Z",
+            "open_issues": 14,
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6592
+            "stars": 6590,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -528,12 +830,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The World's Smallest & Fastest JavaScript Library",
+            "homepage": "http://vaporjs.com",
             "id": 938061,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-07-19T16:09:42Z",
+            "open_issues": 62,
             "owner": "madrobby",
             "repo": "vapor.js",
-            "stars": 1413
+            "stars": 1413,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -544,12 +851,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight (350MB) Lisp interpreter in Malbolge Unshackled, often dubbed the hardest turing complete programming language.",
+            "homepage": null,
             "id": 287066552,
             "language": "TeX",
+            "license": "CC0-1.0",
             "last_commit": "2025-08-05T19:13:30Z",
+            "open_issues": 0,
             "owner": "iczelia",
             "repo": "malbolge-lisp",
-            "stars": 553
+            "stars": 553,
+            "topics": [
+              "esoteric",
+              "lisp",
+              "malbolge",
+              "programming-language"
+            ]
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         },
@@ -560,12 +877,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The only true brainfuck-targetting assembler.",
+            "homepage": "https://esolangs.org/wiki/Asm2bf",
             "id": 153830667,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2022-10-23T08:27:17Z",
+            "open_issues": 8,
             "owner": "iczelia",
             "repo": "asmbf",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "assembler",
+              "brainfuck",
+              "brainfuck-asm",
+              "brainfuck-compiler",
+              "brainfuck-interpreter"
+            ]
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
         }
@@ -574,15 +902,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:05:39.813Z",
+    "last_updated": "2026-08-29T04:39:38.241Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of awesome Esoteric languages and resources",
+      "homepage": null,
       "id": 83993330,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-03-17T09:39:27Z",
+      "open_issues": 12,
       "owner": "angrykoala",
       "repo": "awesome-esolangs",
-      "stars": 601
+      "stars": 601,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "esolang",
+        "esoteric",
+        "list"
+      ]
     },
     "original_repository_sha": "ab47b3e939d83c62248c65cffef37fc16f122976",
     "enhanced_repository": "enhansome/enhansome-esolangs",
