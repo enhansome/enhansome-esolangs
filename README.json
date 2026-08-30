@@ -58,7 +58,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2023-05-08T03:35:59Z",
-            "open_issues": 35,
+            "open_issues": 34,
             "owner": "joaomilho",
             "repo": "Enterprise",
             "stars": 1619,
@@ -195,8 +195,8 @@
             "id": 318742174,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T14:32:43Z",
-            "open_issues": 9,
+            "last_commit": "2026-08-30T08:55:22Z",
+            "open_issues": 11,
             "owner": "genkami",
             "repo": "watson",
             "stars": 269,
@@ -248,7 +248,7 @@
             "id": 332136876,
             "language": "Text",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-06-23T05:33:13Z",
+            "last_commit": "2026-08-30T07:50:25Z",
             "open_issues": 7,
             "owner": "tomhea",
             "repo": "flipjump",
@@ -776,7 +776,7 @@
             "open_issues": 4721,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65675,
+            "stars": 65676,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -797,7 +797,7 @@
             "open_issues": 546,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23794,
+            "stars": 23796,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:14:33.781Z",
+    "last_updated": "2026-08-30T17:38:02.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
@@ -914,7 +914,7 @@
       "open_issues": 12,
       "owner": "angrykoala",
       "repo": "awesome-esolangs",
-      "stars": 601,
+      "stars": 602,
       "topics": [
         "awesome",
         "awesome-list",
