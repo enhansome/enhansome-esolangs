@@ -90,13 +90,13 @@ Curated list of awesome esoteric programming languages, resources and related pr
 
 ## Algorithms
 
-* [πfs](https://github.com/philipl/pifs) ⭐ 7,530 | 🐛 60 | 🌐 C | 📅 2026-04-01 - Pi-based storage system, store your data by searching a matching sequence in pi.
+* [πfs](https://github.com/philipl/pifs) ⭐ 7,529 | 🐛 60 | 🌐 C | 📅 2026-04-01 - Pi-based storage system, store your data by searching a matching sequence in pi.
 * [Stacksort](https://gkoberger.github.io/stacksort) - Sorts a list by searching answers in Stack Overflow and executing code snippets until is sorted.
 
 ## Others
 
-* [NoCode](https://github.com/kelseyhightower/nocode) ⭐ 65,673 | 🐛 4,721 | 🌐 Dockerfile | 📅 2024-08-07 - Secure and reliable applications. Write nothing; deploy nowhere.
-* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,799 | 🐛 546 | 🌐 Java | 📅 2024-07-15 - Simple FizzBuzz game implemented under the most strict enterprise standards.
+* [NoCode](https://github.com/kelseyhightower/nocode) ⭐ 65,682 | 🐛 4,721 | 🌐 Dockerfile | 📅 2024-08-07 - Secure and reliable applications. Write nothing; deploy nowhere.
+* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,798 | 🐛 546 | 🌐 Java | 📅 2024-07-15 - Simple FizzBuzz game implemented under the most strict enterprise standards.
 * [CSS-only-chat](https://github.com/kkuchta/css-only-chat) ⭐ 6,589 | 🐛 14 | 🌐 Ruby | 📅 2023-09-08 - A truly monstrous async web chat using no JS whatsoever on the frontend.
 * [vapor.js](https://github.com/madrobby/vapor.js) ⭐ 1,413 | 🐛 62 | 🌐 JavaScript | 📅 2022-07-19 - The World's Smallest & Fastest JavaScript Library.
 * [MalbolgeLisp](https://github.com/kspalaiologos/malbolge-lisp) ⭐ 553 | 🐛 0 | 🌐 TeX | 📅 2025-08-05 - A Lisp interpreter in Malbolge Unshackled.
@@ -132,4 +132,4 @@ Curated list of awesome esoteric programming languages, resources and related pr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

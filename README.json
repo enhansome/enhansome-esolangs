@@ -776,7 +776,7 @@
             "open_issues": 4721,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65673,
+            "stars": 65682,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -797,7 +797,7 @@
             "open_issues": 546,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23799,
+            "stars": 23798,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T19:32:32.981Z",
+    "last_updated": "2026-09-01T17:21:09.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
