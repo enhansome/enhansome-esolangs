@@ -195,8 +195,8 @@
             "id": 318742174,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T10:15:20Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-02T19:04:09Z",
+            "open_issues": 11,
             "owner": "genkami",
             "repo": "watson",
             "stars": 269,
@@ -248,7 +248,7 @@
             "id": 332136876,
             "language": "Text",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-08-30T07:50:25Z",
+            "last_commit": "2026-09-03T15:05:55Z",
             "open_issues": 7,
             "owner": "tomhea",
             "repo": "flipjump",
@@ -776,7 +776,7 @@
             "open_issues": 4720,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65685,
+            "stars": 65690,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -797,7 +797,7 @@
             "open_issues": 546,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23797,
+            "stars": 23820,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:12:56.028Z",
+    "last_updated": "2026-09-03T17:04:42.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
