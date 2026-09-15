@@ -195,7 +195,7 @@
             "id": 318742174,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T19:04:09Z",
+            "last_commit": "2026-09-14T23:12:09Z",
             "open_issues": 11,
             "owner": "genkami",
             "repo": "watson",
@@ -776,7 +776,7 @@
             "open_issues": 4718,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65721,
+            "stars": 65725,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:44:06.571Z",
+    "last_updated": "2026-09-15T17:42:00.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
