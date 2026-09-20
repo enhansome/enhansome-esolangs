@@ -40,7 +40,7 @@
             "open_issues": 26,
             "owner": "munificent",
             "repo": "vigil",
-            "stars": 3037,
+            "stars": 3036,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -773,7 +773,7 @@
             "language": "Dockerfile",
             "license": "Apache-2.0",
             "last_commit": "2024-08-07T03:19:12Z",
-            "open_issues": 4718,
+            "open_issues": 4720,
             "owner": "kelseyhightower",
             "repo": "nocode",
             "stars": 65739,
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T16:35:53.789Z",
+    "last_updated": "2026-09-20T16:53:28.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
