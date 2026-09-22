@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T18:48:35.735Z",
+    "last_updated": "2026-09-22T17:40:13.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
@@ -914,7 +914,7 @@
       "open_issues": 11,
       "owner": "angrykoala",
       "repo": "awesome-esolangs",
-      "stars": 605,
+      "stars": 602,
       "topics": [
         "awesome",
         "awesome-list",
