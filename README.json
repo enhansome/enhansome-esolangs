@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8598,
+            "stars": 8597,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -40,7 +40,7 @@
             "open_issues": 26,
             "owner": "munificent",
             "repo": "vigil",
-            "stars": 3036,
+            "stars": 3035,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -776,7 +776,7 @@
             "open_issues": 4721,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65746,
+            "stars": 65822,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -797,7 +797,7 @@
             "open_issues": 546,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23868,
+            "stars": 23869,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -818,7 +818,7 @@
             "open_issues": 14,
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6588,
+            "stars": 6586,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T17:59:18.732Z",
+    "last_updated": "2026-09-26T17:17:16.840Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
@@ -914,7 +914,7 @@
       "open_issues": 11,
       "owner": "angrykoala",
       "repo": "awesome-esolangs",
-      "stars": 602,
+      "stars": 603,
       "topics": [
         "awesome",
         "awesome-list",
