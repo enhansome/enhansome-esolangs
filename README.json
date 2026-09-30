@@ -61,7 +61,7 @@
             "open_issues": 34,
             "owner": "joaomilho",
             "repo": "Enterprise",
-            "stars": 1619,
+            "stars": 1618,
             "topics": [
               "ajax",
               "artificial-intelligence",
@@ -102,7 +102,7 @@
             "open_issues": 10,
             "owner": "fetlang",
             "repo": "fetlang",
-            "stars": 1500,
+            "stars": 1501,
             "topics": [
               "compiler",
               "esolang",
@@ -773,10 +773,10 @@
             "language": "Dockerfile",
             "license": "Apache-2.0",
             "last_commit": "2024-08-07T03:19:12Z",
-            "open_issues": 4721,
+            "open_issues": 4722,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65841,
+            "stars": 65847,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -794,10 +794,10 @@
             "language": "Java",
             "license": null,
             "last_commit": "2024-07-15T08:04:08Z",
-            "open_issues": 546,
+            "open_issues": 547,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23880,
+            "stars": 23881,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -818,7 +818,7 @@
             "open_issues": 14,
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6585,
+            "stars": 6586,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:43:11.742Z",
+    "last_updated": "2026-09-30T18:28:47.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
