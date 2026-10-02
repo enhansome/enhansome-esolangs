@@ -18,12 +18,12 @@ Curated list of awesome esoteric programming languages, resources and related pr
 
 ## Languages
 
-* [JSFuck](https://github.com/aemkei/jsfuck) ⭐ 8,600 | 🐛 38 | 🌐 JavaScript | 📅 2025-03-10 - Esoteric programming style based on the atomic parts of JavaScript.
+* [JSFuck](https://github.com/aemkei/jsfuck) ⭐ 8,602 | 🐛 38 | 🌐 JavaScript | 📅 2025-03-10 - Esoteric programming style based on the atomic parts of JavaScript.
 * [Vigil](https://github.com/munificent/vigil) ⭐ 3,035 | 🐛 26 | 🌐 Python | 📅 2022-09-26 - Only Vigil is truly vigilant about not allowing code that fails to pass programmatic specifications.
 * [Enterprise™](https://github.com/joaomilho/Enterprise) ⭐ 1,618 | 🐛 34 | 🌐 JavaScript | 📅 2023-05-08 - Non deterministic unnecessarily statically typed language.
-* [Fetlang](https://github.com/Property404/fetlang) ⭐ 1,502 | 🐛 10 | 🌐 C++ | 📅 2024-05-02 - Designed such that source code looks like poorly written fetish erotica.
+* [Fetlang](https://github.com/Property404/fetlang) ⭐ 1,503 | 🐛 10 | 🌐 C++ | 📅 2024-05-02 - Designed such that source code looks like poorly written fetish erotica.
 * [Monicelli](https://github.com/esseks/monicelli) ⭐ 1,381 | 🐛 21 | 🌐 C++ | 📅 2025-11-23 - Programming using Italian-like gibberish.
-* [Jelly](https://github.com/DennisMitchell/jellylanguage) ⭐ 914 | 🐛 22 | 🌐 Python | 📅 2020-09-02 - Golfing language based on J.
+* [Jelly](https://github.com/DennisMitchell/jellylanguage) ⭐ 915 | 🐛 22 | 🌐 Python | 📅 2020-09-02 - Golfing language based on J.
 * [Folders](https://github.com/rottytooth/Folders) ⭐ 387 | 🐛 1 | 🌐 C# | 📅 2021-12-20 - Code written with folders.
 * [Watson](https://github.com/genkami/watson) ⭐ 269 | 🐛 11 | 🌐 Go | 📅 2026-09-14 - Stack-based Turing-incomplete configuration files.
 * [Charcoal](https://github.com/somebody1234/Charcoal) ⭐ 227 | 🐛 1 | 🌐 Python | 📅 2024-12-05 - Concise language for sketching ASCII art.
@@ -90,13 +90,13 @@ Curated list of awesome esoteric programming languages, resources and related pr
 
 ## Algorithms
 
-* [πfs](https://github.com/philipl/pifs) ⭐ 7,530 | 🐛 60 | 🌐 C | 📅 2026-04-01 - Pi-based storage system, store your data by searching a matching sequence in pi.
+* [πfs](https://github.com/philipl/pifs) ⭐ 7,531 | 🐛 60 | 🌐 C | 📅 2026-04-01 - Pi-based storage system, store your data by searching a matching sequence in pi.
 * [Stacksort](https://gkoberger.github.io/stacksort) - Sorts a list by searching answers in Stack Overflow and executing code snippets until is sorted.
 
 ## Others
 
-* [NoCode](https://github.com/kelseyhightower/nocode) ⭐ 65,853 | 🐛 4,722 | 🌐 Dockerfile | 📅 2024-08-07 - Secure and reliable applications. Write nothing; deploy nowhere.
-* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,881 | 🐛 547 | 🌐 Java | 📅 2024-07-15 - Simple FizzBuzz game implemented under the most strict enterprise standards.
+* [NoCode](https://github.com/kelseyhightower/nocode) ⭐ 65,855 | 🐛 4,722 | 🌐 Dockerfile | 📅 2024-08-07 - Secure and reliable applications. Write nothing; deploy nowhere.
+* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,883 | 🐛 547 | 🌐 Java | 📅 2024-07-15 - Simple FizzBuzz game implemented under the most strict enterprise standards.
 * [CSS-only-chat](https://github.com/kkuchta/css-only-chat) ⭐ 6,585 | 🐛 14 | 🌐 Ruby | 📅 2023-09-08 - A truly monstrous async web chat using no JS whatsoever on the frontend.
 * [vapor.js](https://github.com/madrobby/vapor.js) ⭐ 1,412 | 🐛 62 | 🌐 JavaScript | 📅 2022-07-19 - The World's Smallest & Fastest JavaScript Library.
 * [MalbolgeLisp](https://github.com/kspalaiologos/malbolge-lisp) ⭐ 556 | 🐛 0 | 🌐 TeX | 📅 2025-08-05 - A Lisp interpreter in Malbolge Unshackled.
@@ -132,4 +132,4 @@ Curated list of awesome esoteric programming languages, resources and related pr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
