@@ -131,7 +131,7 @@
             "open_issues": 21,
             "owner": "esseks",
             "repo": "monicelli",
-            "stars": 1381,
+            "stars": 1380,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -152,7 +152,7 @@
             "open_issues": 22,
             "owner": "DennisMitchell",
             "repo": "jellylanguage",
-            "stars": 915,
+            "stars": 916,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -400,7 +400,7 @@
             "open_issues": 0,
             "owner": "jcolag",
             "repo": "Thue",
-            "stars": 37,
+            "stars": 38,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -818,7 +818,7 @@
             "open_issues": 14,
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6585,
+            "stars": 6583,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:32:43.236Z",
+    "last_updated": "2026-10-03T04:45:24.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
