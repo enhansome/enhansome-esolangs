@@ -776,7 +776,7 @@
             "open_issues": 4723,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65865,
+            "stars": 65862,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:17:25.906Z",
+    "last_updated": "2026-10-06T18:57:25.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
@@ -911,7 +911,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-29T16:06:08Z",
-      "open_issues": 11,
+      "open_issues": 12,
       "owner": "angrykoala",
       "repo": "awesome-esolangs",
       "stars": 603,
