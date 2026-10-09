@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8602,
+            "stars": 8601,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -248,7 +248,7 @@
             "id": 332136876,
             "language": "Text",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-04T04:55:22Z",
+            "last_commit": "2026-10-09T07:56:04Z",
             "open_issues": 7,
             "owner": "tomhea",
             "repo": "flipjump",
@@ -776,7 +776,7 @@
             "open_issues": 4722,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65871,
+            "stars": 65876,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -818,7 +818,7 @@
             "open_issues": 14,
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6583,
+            "stars": 6582,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -839,7 +839,7 @@
             "open_issues": 62,
             "owner": "madrobby",
             "repo": "vapor.js",
-            "stars": 1412,
+            "stars": 1411,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:19:40.954Z",
+    "last_updated": "2026-10-09T18:52:44.140Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
