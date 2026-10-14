@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8601,
+            "stars": 8600,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -40,7 +40,7 @@
             "open_issues": 26,
             "owner": "munificent",
             "repo": "vigil",
-            "stars": 3035,
+            "stars": 3036,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -776,7 +776,7 @@
             "open_issues": 4723,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65899,
+            "stars": 65909,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -797,7 +797,7 @@
             "open_issues": 547,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23900,
+            "stars": 23904,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T19:54:05.771Z",
+    "last_updated": "2026-10-14T18:04:25.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
