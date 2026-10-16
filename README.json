@@ -170,10 +170,10 @@
             "language": "C#",
             "license": null,
             "last_commit": "2021-12-20T00:23:33Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "rottytooth",
             "repo": "Folders",
-            "stars": 387,
+            "stars": 401,
             "topics": [
               "esolang",
               "esoteric-language",
@@ -248,7 +248,7 @@
             "id": 332136876,
             "language": "Text",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-15T14:17:19Z",
+            "last_commit": "2026-10-16T14:59:00Z",
             "open_issues": 9,
             "owner": "tomhea",
             "repo": "flipjump",
@@ -818,7 +818,7 @@
             "open_issues": 14,
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6581,
+            "stars": 6580,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T17:48:57.411Z",
+    "last_updated": "2026-10-16T17:32:35.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
