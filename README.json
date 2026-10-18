@@ -173,7 +173,7 @@
             "open_issues": 2,
             "owner": "rottytooth",
             "repo": "Folders",
-            "stars": 410,
+            "stars": 412,
             "topics": [
               "esolang",
               "esoteric-language",
@@ -776,7 +776,7 @@
             "open_issues": 4722,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65920,
+            "stars": 65921,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T16:31:43.432Z",
+    "last_updated": "2026-10-18T16:37:24.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
@@ -914,7 +914,7 @@
       "open_issues": 12,
       "owner": "angrykoala",
       "repo": "awesome-esolangs",
-      "stars": 604,
+      "stars": 605,
       "topics": [
         "awesome",
         "awesome-list",

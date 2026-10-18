@@ -24,7 +24,7 @@ Curated list of awesome esoteric programming languages, resources and related pr
 * [Fetlang](https://github.com/Property404/fetlang) ⭐ 1,505 | 🐛 10 | 🌐 C++ | 📅 2024-05-02 - Designed such that source code looks like poorly written fetish erotica.
 * [Monicelli](https://github.com/esseks/monicelli) ⭐ 1,381 | 🐛 21 | 🌐 C++ | 📅 2025-11-23 - Programming using Italian-like gibberish.
 * [Jelly](https://github.com/DennisMitchell/jellylanguage) ⭐ 916 | 🐛 22 | 🌐 Python | 📅 2020-09-02 - Golfing language based on J.
-* [Folders](https://github.com/rottytooth/Folders) ⭐ 410 | 🐛 2 | 🌐 C# | 📅 2021-12-20 - Code written with folders.
+* [Folders](https://github.com/rottytooth/Folders) ⭐ 412 | 🐛 2 | 🌐 C# | 📅 2021-12-20 - Code written with folders.
 * [Watson](https://github.com/genkami/watson) ⭐ 269 | 🐛 11 | 🌐 Go | 📅 2026-10-07 - Stack-based Turing-incomplete configuration files.
 * [Charcoal](https://github.com/somebody1234/Charcoal) ⭐ 227 | 🐛 1 | 🌐 Python | 📅 2024-12-05 - Concise language for sketching ASCII art.
 * [FlipJump](https://github.com/tomhea/flip-jump) ⭐ 143 | 🐛 8 | 🌐 Text | 📅 2026-10-17 - 1 instruction: Flip a bit, then Jump. The simplest OISC.
@@ -90,12 +90,12 @@ Curated list of awesome esoteric programming languages, resources and related pr
 
 ## Algorithms
 
-* [πfs](https://github.com/philipl/pifs) ⭐ 7,534 | 🐛 60 | 🌐 C | 📅 2026-04-01 - Pi-based storage system, store your data by searching a matching sequence in pi.
+* [πfs](https://github.com/philipl/pifs) ⭐ 7,535 | 🐛 60 | 🌐 C | 📅 2026-04-01 - Pi-based storage system, store your data by searching a matching sequence in pi.
 * [Stacksort](https://gkoberger.github.io/stacksort) - Sorts a list by searching answers in Stack Overflow and executing code snippets until is sorted.
 
 ## Others
 
-* [NoCode](https://github.com/kelseyhightower/nocode) ⭐ 65,920 | 🐛 4,722 | 🌐 Dockerfile | 📅 2024-08-07 - Secure and reliable applications. Write nothing; deploy nowhere.
+* [NoCode](https://github.com/kelseyhightower/nocode) ⭐ 65,921 | 🐛 4,722 | 🌐 Dockerfile | 📅 2024-08-07 - Secure and reliable applications. Write nothing; deploy nowhere.
 * [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,903 | 🐛 547 | 🌐 Java | 📅 2024-07-15 - Simple FizzBuzz game implemented under the most strict enterprise standards.
 * [CSS-only-chat](https://github.com/kkuchta/css-only-chat) ⭐ 6,579 | 🐛 14 | 🌐 Ruby | 📅 2023-09-08 - A truly monstrous async web chat using no JS whatsoever on the frontend.
 * [vapor.js](https://github.com/madrobby/vapor.js) ⭐ 1,410 | 🐛 62 | 🌐 JavaScript | 📅 2022-07-19 - The World's Smallest & Fastest JavaScript Library.
@@ -106,7 +106,7 @@ Curated list of awesome esoteric programming languages, resources and related pr
 ## Resources
 
 * [DM's Esoteric Programming Languages](http://www.dangermouse.net/esoteric) - List of esoteric languages and algorithms written by dangermouse.
-* [Esofiles](https://github.com/graue/esofiles) ⭐ 111 | 🐛 6 | 🌐 C | 📅 2024-05-26 - The Esoteric Files Archive, an archive of implementations of esoteric programming languages and examples.
+* [Esofiles](https://github.com/graue/esofiles) ⭐ 111 | 🐛 7 | 🌐 C | 📅 2024-05-26 - The Esoteric Files Archive, an archive of implementations of esoteric programming languages and examples.
 * [Esolang](https://esolangs.org) - Wiki of esoteric programming languages and related Resources.
 * [Esoteric Codes](https://esoteric.codes) - Articles and documents collection.
 * [Rosettacode](http://rosettacode.org/wiki/Rosetta_Code) - Provides examples in different languages, including esoteric languages.
@@ -132,4 +132,4 @@ Curated list of awesome esoteric programming languages, resources and related pr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
