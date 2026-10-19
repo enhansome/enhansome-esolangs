@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8604,
+            "stars": 8603,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -248,7 +248,7 @@
             "id": 332136876,
             "language": "Text",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-17T00:53:09Z",
+            "last_commit": "2026-10-18T23:35:44Z",
             "open_issues": 8,
             "owner": "tomhea",
             "repo": "flipjump",
@@ -773,10 +773,10 @@
             "language": "Dockerfile",
             "license": "Apache-2.0",
             "last_commit": "2024-08-07T03:19:12Z",
-            "open_issues": 4722,
+            "open_issues": 4721,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65921,
+            "stars": 65923,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -797,7 +797,7 @@
             "open_issues": 547,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23903,
+            "stars": 23905,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -836,7 +836,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2022-07-19T16:09:42Z",
-            "open_issues": 62,
+            "open_issues": 61,
             "owner": "madrobby",
             "repo": "vapor.js",
             "stars": 1410,
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T16:37:24.306Z",
+    "last_updated": "2026-10-19T19:23:00.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
