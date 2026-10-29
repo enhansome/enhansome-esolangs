@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8601,
+            "stars": 8600,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -195,7 +195,7 @@
             "id": 318742174,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T00:34:42Z",
+            "last_commit": "2026-10-28T20:49:58Z",
             "open_issues": 11,
             "owner": "genkami",
             "repo": "watson",
@@ -248,8 +248,8 @@
             "id": 332136876,
             "language": "Text",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-28T17:50:08Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-29T08:58:02Z",
+            "open_issues": 3,
             "owner": "tomhea",
             "repo": "flipjump",
             "stars": 143,
@@ -776,7 +776,7 @@
             "open_issues": 4724,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65956,
+            "stars": 65963,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -797,7 +797,7 @@
             "open_issues": 548,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23922,
+            "stars": 23926,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -818,7 +818,7 @@
             "open_issues": 14,
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6578,
+            "stars": 6576,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T18:56:43.859Z",
+    "last_updated": "2026-10-29T19:01:30.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
@@ -911,7 +911,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-29T16:06:08Z",
-      "open_issues": 13,
+      "open_issues": 15,
       "owner": "angrykoala",
       "repo": "awesome-esolangs",
       "stars": 606,
