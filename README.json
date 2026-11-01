@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8599,
+            "stars": 8598,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -102,7 +102,7 @@
             "open_issues": 10,
             "owner": "fetlang",
             "repo": "fetlang",
-            "stars": 1506,
+            "stars": 1507,
             "topics": [
               "compiler",
               "esolang",
@@ -248,7 +248,7 @@
             "id": 332136876,
             "language": "Text",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-31T10:30:47Z",
+            "last_commit": "2026-11-01T05:36:41Z",
             "open_issues": 2,
             "owner": "tomhea",
             "repo": "flipjump",
@@ -353,7 +353,7 @@
             "open_issues": 0,
             "owner": "dylanbeattie",
             "repo": "rockstar",
-            "stars": 90,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -773,10 +773,10 @@
             "language": "Dockerfile",
             "license": "Apache-2.0",
             "last_commit": "2024-08-07T03:19:12Z",
-            "open_issues": 4725,
+            "open_issues": 4726,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65988,
+            "stars": 65995,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -797,7 +797,7 @@
             "open_issues": 548,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23929,
+            "stars": 23932,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:49:52.105Z",
+    "last_updated": "2026-11-01T18:27:45.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
