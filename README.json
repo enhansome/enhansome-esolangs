@@ -40,7 +40,7 @@
             "open_issues": 26,
             "owner": "munificent",
             "repo": "vigil",
-            "stars": 3037,
+            "stars": 3038,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -102,7 +102,7 @@
             "open_issues": 10,
             "owner": "fetlang",
             "repo": "fetlang",
-            "stars": 1507,
+            "stars": 1506,
             "topics": [
               "compiler",
               "esolang",
@@ -776,7 +776,7 @@
             "open_issues": 4726,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65995,
+            "stars": 66002,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:27:45.139Z",
+    "last_updated": "2026-11-02T22:22:52.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
