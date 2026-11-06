@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8599,
+            "stars": 8598,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -40,7 +40,7 @@
             "open_issues": 26,
             "owner": "munificent",
             "repo": "vigil",
-            "stars": 3038,
+            "stars": 3039,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -227,7 +227,7 @@
             "open_issues": 1,
             "owner": "charcoal-lang",
             "repo": "Charcoal",
-            "stars": 228,
+            "stars": 229,
             "topics": [
               "ascii-art",
               "esoteric-language",
@@ -773,10 +773,10 @@
             "language": "Dockerfile",
             "license": "Apache-2.0",
             "last_commit": "2024-08-07T03:19:12Z",
-            "open_issues": 4725,
+            "open_issues": 4727,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 66001,
+            "stars": 66008,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -818,7 +818,7 @@
             "open_issues": 14,
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6575,
+            "stars": 6574,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T20:43:44.454Z",
+    "last_updated": "2026-11-06T19:59:23.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
