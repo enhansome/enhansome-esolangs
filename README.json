@@ -102,7 +102,7 @@
             "open_issues": 10,
             "owner": "fetlang",
             "repo": "fetlang",
-            "stars": 1506,
+            "stars": 1505,
             "topics": [
               "compiler",
               "esolang",
@@ -131,7 +131,7 @@
             "open_issues": 21,
             "owner": "esseks",
             "repo": "monicelli",
-            "stars": 1381,
+            "stars": 1382,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -776,7 +776,7 @@
             "open_issues": 4728,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 66024,
+            "stars": 66036,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -797,7 +797,7 @@
             "open_issues": 548,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23939,
+            "stars": 23938,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -818,7 +818,7 @@
             "open_issues": 14,
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6574,
+            "stars": 6575,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:24:17.789Z",
+    "last_updated": "2026-11-09T23:02:10.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
@@ -911,7 +911,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-29T16:06:08Z",
-      "open_issues": 16,
+      "open_issues": 17,
       "owner": "angrykoala",
       "repo": "awesome-esolangs",
       "stars": 607,
