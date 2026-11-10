@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8599,
+            "stars": 8600,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -131,7 +131,7 @@
             "open_issues": 21,
             "owner": "esseks",
             "repo": "monicelli",
-            "stars": 1382,
+            "stars": 1384,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -773,10 +773,10 @@
             "language": "Dockerfile",
             "license": "Apache-2.0",
             "last_commit": "2024-08-07T03:19:12Z",
-            "open_issues": 4728,
+            "open_issues": 4729,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 66036,
+            "stars": 66041,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -797,7 +797,7 @@
             "open_issues": 548,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23938,
+            "stars": 23939,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -818,7 +818,7 @@
             "open_issues": 14,
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6575,
+            "stars": 6577,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -839,7 +839,7 @@
             "open_issues": 61,
             "owner": "madrobby",
             "repo": "vapor.js",
-            "stars": 1410,
+            "stars": 1411,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:02:10.631Z",
+    "last_updated": "2026-11-10T20:30:09.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
