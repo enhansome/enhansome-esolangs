@@ -248,7 +248,7 @@
             "id": 332136876,
             "language": "Text",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-13T13:55:34Z",
+            "last_commit": "2026-11-14T18:26:31Z",
             "open_issues": 2,
             "owner": "tomhea",
             "repo": "flipjump",
@@ -776,7 +776,7 @@
             "open_issues": 4730,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 66054,
+            "stars": 66056,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -794,10 +794,10 @@
             "language": "Java",
             "license": null,
             "last_commit": "2024-07-15T08:04:08Z",
-            "open_issues": 548,
+            "open_issues": 549,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23946,
+            "stars": 23944,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -818,7 +818,7 @@
             "open_issues": 14,
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6577,
+            "stars": 6576,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:32:36.265Z",
+    "last_updated": "2026-11-14T18:46:28.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
