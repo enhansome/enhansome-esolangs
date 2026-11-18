@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8604,
+            "stars": 8605,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -131,7 +131,7 @@
             "open_issues": 21,
             "owner": "esseks",
             "repo": "monicelli",
-            "stars": 1384,
+            "stars": 1385,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -773,10 +773,10 @@
             "language": "Dockerfile",
             "license": "Apache-2.0",
             "last_commit": "2024-08-07T03:19:12Z",
-            "open_issues": 4730,
+            "open_issues": 4731,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 66061,
+            "stars": 66076,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -797,7 +797,7 @@
             "open_issues": 549,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23947,
+            "stars": 23948,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T21:49:37.477Z",
+    "last_updated": "2026-11-18T21:28:34.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
