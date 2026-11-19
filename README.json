@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8605,
+            "stars": 8602,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -40,7 +40,7 @@
             "open_issues": 26,
             "owner": "munificent",
             "repo": "vigil",
-            "stars": 3040,
+            "stars": 3038,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -61,7 +61,7 @@
             "open_issues": 34,
             "owner": "joaomilho",
             "repo": "Enterprise",
-            "stars": 1620,
+            "stars": 1619,
             "topics": [
               "ajax",
               "artificial-intelligence",
@@ -131,7 +131,7 @@
             "open_issues": 21,
             "owner": "esseks",
             "repo": "monicelli",
-            "stars": 1385,
+            "stars": 1384,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -173,7 +173,7 @@
             "open_issues": 0,
             "owner": "rottytooth",
             "repo": "Folders",
-            "stars": 413,
+            "stars": 410,
             "topics": [
               "esolang",
               "esoteric-language",
@@ -773,10 +773,10 @@
             "language": "Dockerfile",
             "license": "Apache-2.0",
             "last_commit": "2024-08-07T03:19:12Z",
-            "open_issues": 4731,
+            "open_issues": 4732,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 66076,
+            "stars": 66127,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -794,10 +794,10 @@
             "language": "Java",
             "license": null,
             "last_commit": "2024-07-15T08:04:08Z",
-            "open_issues": 549,
+            "open_issues": 550,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23948,
+            "stars": 23947,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -818,7 +818,7 @@
             "open_issues": 14,
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6576,
+            "stars": 6575,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -839,7 +839,7 @@
             "open_issues": 61,
             "owner": "madrobby",
             "repo": "vapor.js",
-            "stars": 1411,
+            "stars": 1410,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:28:34.864Z",
+    "last_updated": "2026-11-19T21:40:53.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
