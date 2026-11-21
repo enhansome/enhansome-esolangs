@@ -18,8 +18,8 @@ Curated list of awesome esoteric programming languages, resources and related pr
 
 ## Languages
 
-* [JSFuck](https://github.com/aemkei/jsfuck) ⭐ 8,602 | 🐛 38 | 🌐 JavaScript | 📅 2025-03-10 - Esoteric programming style based on the atomic parts of JavaScript.
-* [Vigil](https://github.com/munificent/vigil) ⭐ 3,038 | 🐛 26 | 🌐 Python | 📅 2022-09-26 - Only Vigil is truly vigilant about not allowing code that fails to pass programmatic specifications.
+* [JSFuck](https://github.com/aemkei/jsfuck) ⭐ 8,603 | 🐛 38 | 🌐 JavaScript | 📅 2025-03-10 - Esoteric programming style based on the atomic parts of JavaScript.
+* [Vigil](https://github.com/munificent/vigil) ⭐ 3,037 | 🐛 26 | 🌐 Python | 📅 2022-09-26 - Only Vigil is truly vigilant about not allowing code that fails to pass programmatic specifications.
 * [Enterprise™](https://github.com/joaomilho/Enterprise) ⭐ 1,619 | 🐛 34 | 🌐 JavaScript | 📅 2023-05-08 - Non deterministic unnecessarily statically typed language.
 * [Fetlang](https://github.com/Property404/fetlang) ⭐ 1,504 | 🐛 10 | 🌐 C++ | 📅 2024-05-02 - Designed such that source code looks like poorly written fetish erotica.
 * [Monicelli](https://github.com/esseks/monicelli) ⭐ 1,384 | 🐛 21 | 🌐 C++ | 📅 2025-11-23 - Programming using Italian-like gibberish.
@@ -44,9 +44,9 @@ Curated list of awesome esoteric programming languages, resources and related pr
 * [Mindfck](https://github.com/angrykoala/mindfck) ⭐ 6 | 🐛 1 | 🌐 Go | 📅 2025-03-17 - High level language that transpiles to Brainfuck.
 * [Ni](https://github.com/DeybisMelendez/ni) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2020-07-28 - Brainfuck-based with more helpful instructions.
 * [RASEL](https://github.com/Nakilon/rasel) ⭐ 6 | 🐛 0 | 🌐 Ruby | 📅 2021-12-02 - Fungeoid with no limits on program space, float precision, and with a bit of random access to stack.
+* [Benedictum](https://github.com/Beneking102/benedictum) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2026-03-14 - Latin-themed Brainfuck derivative where source code reads as prayer.
 * [Tru](https://github.com/sungwoncho/tru) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2020-08-09 - A stack-based language with prefix-free brackets.
 * [Turtle](https://github.com/TypeMonkey/Turtle) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2020-04-13 - Uses long-term storage for memory use.
-* [Benedictum](https://github.com/Beneking102/benedictum) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2026-03-14 - Latin-themed Brainfuck derivative where source code reads as prayer.
 * [><>](https://esolangs.org/wiki/fish) - A stack-based 2d language with support for reflection.
 * [1+](https://esolangs.org/wiki/1%2B) - A surprisingly user-friendly language with a highly-limited instruction set.
 * [ajsone](https://www.quaxio.com/ajsone) - Language defined completely in JSON.
@@ -95,7 +95,7 @@ Curated list of awesome esoteric programming languages, resources and related pr
 
 ## Others
 
-* [NoCode](https://github.com/kelseyhightower/nocode) ⭐ 66,141 | 🐛 4,733 | 🌐 Dockerfile | 📅 2024-08-07 - Secure and reliable applications. Write nothing; deploy nowhere.
+* [NoCode](https://github.com/kelseyhightower/nocode) ⭐ 66,176 | 🐛 4,734 | 🌐 Dockerfile | 📅 2024-08-07 - Secure and reliable applications. Write nothing; deploy nowhere.
 * [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,949 | 🐛 550 | 🌐 Java | 📅 2024-07-15 - Simple FizzBuzz game implemented under the most strict enterprise standards.
 * [CSS-only-chat](https://github.com/kkuchta/css-only-chat) ⭐ 6,574 | 🐛 14 | 🌐 Ruby | 📅 2023-09-08 - A truly monstrous async web chat using no JS whatsoever on the frontend.
 * [vapor.js](https://github.com/madrobby/vapor.js) ⭐ 1,410 | 🐛 61 | 🌐 JavaScript | 📅 2022-07-19 - The World's Smallest & Fastest JavaScript Library.
@@ -132,4 +132,4 @@ Curated list of awesome esoteric programming languages, resources and related pr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._

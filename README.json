@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8602,
+            "stars": 8603,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -40,7 +40,7 @@
             "open_issues": 26,
             "owner": "munificent",
             "repo": "vigil",
-            "stars": 3038,
+            "stars": 3037,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -679,6 +679,37 @@
         },
         {
           "node_type": "item",
+          "title": "Benedictum",
+          "description": "Latin-themed Brainfuck derivative where source code reads as prayer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Latin-themed esoteric programming language where source code reads as prayer",
+            "homepage": "https://esolangs.org/wiki/Benedictum",
+            "id": 1181755901,
+            "language": "C",
+            "license": "MIT",
+            "last_commit": "2026-03-14T20:09:30Z",
+            "open_issues": 0,
+            "owner": "Beneking102",
+            "repo": "benedictum",
+            "stars": 5,
+            "topics": [
+              "benedictum",
+              "brainfuck",
+              "c",
+              "esolang",
+              "esoteric-language",
+              "interpreter",
+              "latin",
+              "latin-language",
+              "programming-language"
+            ]
+          },
+          "first_seen": "2026-08-28T23:05:39.813Z"
+        },
+        {
+          "node_type": "item",
           "title": "Tru",
           "description": "A stack-based language with prefix-free brackets.",
           "children": [],
@@ -722,37 +753,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Benedictum",
-          "description": "Latin-themed Brainfuck derivative where source code reads as prayer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Latin-themed esoteric programming language where source code reads as prayer",
-            "homepage": "https://esolangs.org/wiki/Benedictum",
-            "id": 1181755901,
-            "language": "C",
-            "license": "MIT",
-            "last_commit": "2026-03-14T20:09:30Z",
-            "open_issues": 0,
-            "owner": "Beneking102",
-            "repo": "benedictum",
-            "stars": 4,
-            "topics": [
-              "benedictum",
-              "brainfuck",
-              "c",
-              "esolang",
-              "esoteric-language",
-              "interpreter",
-              "latin",
-              "latin-language",
-              "programming-language"
-            ]
-          },
-          "first_seen": "2026-08-28T23:05:39.813Z"
         }
       ],
       "title": "Languages"
@@ -773,10 +773,10 @@
             "language": "Dockerfile",
             "license": "Apache-2.0",
             "last_commit": "2024-08-07T03:19:12Z",
-            "open_issues": 4733,
+            "open_issues": 4734,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 66141,
+            "stars": 66176,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:20:31.905Z",
+    "last_updated": "2026-11-21T20:09:39.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
@@ -911,7 +911,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-29T16:06:08Z",
-      "open_issues": 17,
+      "open_issues": 18,
       "owner": "angrykoala",
       "repo": "awesome-esolangs",
       "stars": 607,
