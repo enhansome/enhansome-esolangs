@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8604,
+            "stars": 8606,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -102,7 +102,7 @@
             "open_issues": 10,
             "owner": "fetlang",
             "repo": "fetlang",
-            "stars": 1504,
+            "stars": 1505,
             "topics": [
               "compiler",
               "esolang",
@@ -776,7 +776,7 @@
             "open_issues": 4731,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 66213,
+            "stars": 66220,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -818,7 +818,7 @@
             "open_issues": 14,
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6574,
+            "stars": 6573,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -839,7 +839,7 @@
             "open_issues": 61,
             "owner": "madrobby",
             "repo": "vapor.js",
-            "stars": 1410,
+            "stars": 1411,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:39.813Z"
@@ -902,7 +902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T22:37:38.284Z",
+    "last_updated": "2026-11-26T22:27:32.884Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Esoteric languages and resources",
